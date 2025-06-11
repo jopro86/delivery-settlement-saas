@@ -1,3 +1,15 @@
+# 🚚 Delivery Settlement SaaS
+
+배송 정산 관리 시스템 - 배송 업무의 정산과 수수료 관리를 위한 SaaS 플랫폼
+
+## 프로젝트 개요
+- 배송 업체의 정산 관리
+- 라이더 수수료 계산
+- 지점별 수익 분석
+- 급여 관리 시스템
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
